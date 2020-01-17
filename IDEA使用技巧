@@ -1,1 +1,5 @@
-1、打印语句：sout+回车
+1、输出语句：sout
+2、main函数：psvm
+3、for循环：fori
+4、删除行：ctrl+Y
+5、导入多个项目：File-->Project Structure--->Modules--->选择加号--->import Modules--->OK
