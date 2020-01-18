@@ -3,3 +3,13 @@
 3、for循环：fori
 4、删除行：ctrl+Y
 5、导入多个项目：File-->Project Structure--->Modules--->选择加号--->import Modules--->OK
+6、运行项目：Ctrl+Shift+F10
+7、删除项目：右键Remove Module--->右键残余文件Show in Explorer--->File--->Close Project--->点X--->手动删除磁盘文件
+8、新建项目：File--->New--->Project--->Project SDK--->选择jdk1.8
+9、代码提示：默认是Alt+空格，和切换输入法冲突，File--->setting--->keymap--->main menu--->Code--->Completion--->
+            Cyclic Expand Word---右键remove
+            Basic--->右键Add keyboard Shortcut--->按Alt+/--->此时有两个快捷键--->remove Ctrl+空格
+10、设置字符集：File--->setting--->editor--->File Encoding--->三处的编码方式全部设置utf-8
+11、设置自动导包：File--->setting--->editor--->General--->Auto Import--->Add和Optimize两个选项都选中
+12、修改删除行快捷键
+13、标记修改未保存文件标记*号：File --> Settings --> Editor --> General --> Editor tabs --> 勾选 Mark modified(*)
