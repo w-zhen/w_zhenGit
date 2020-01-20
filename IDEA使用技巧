@@ -13,3 +13,5 @@
 11、设置自动导包：File--->setting--->editor--->General--->Auto Import--->Add和Optimize两个选项都选中
 12、修改删除行快捷键
 13、标记修改未保存文件标记*号：File --> Settings --> Editor --> General --> Editor tabs --> 勾选 Mark modified(*)
+14、去掉参数标记：File--->setting--->editor--->Appearance--->Show Parameter name hints的勾去掉
+15、方法自动显示参数提示：File--->setting--->General--->Code Completion--->Parameter Info三项全部勾选
