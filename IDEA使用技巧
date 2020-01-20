@@ -14,4 +14,4 @@
 12、修改删除行快捷键
 13、标记修改未保存文件标记*号：File --> Settings --> Editor --> General --> Editor tabs --> 勾选 Mark modified(*)
 14、去掉参数标记：File--->setting--->editor--->Appearance--->Show Parameter name hints的勾去掉
-15、方法自动显示参数提示：File--->setting--->General--->Code Completion--->Parameter Info三项全部勾选
+15、方法自动显示参数提示：File--->setting--->General--->Code Completion--->Parameter Info中不选hints的，剩下两项都选
