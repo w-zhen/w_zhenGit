@@ -16,3 +16,4 @@
 14、去掉参数标记：File--->setting--->editor--->Appearance--->Show Parameter name hints的勾去掉
 15、方法自动显示参数提示：File--->setting--->General--->Code Completion--->Parameter Info中不选hints的，剩下两项都选
 16、导包快捷键：alt+回车
+17、方法参数提示：ctrl+P
