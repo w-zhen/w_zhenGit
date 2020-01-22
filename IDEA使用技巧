@@ -17,3 +17,5 @@
 15、方法自动显示参数提示：File--->setting--->General--->Code Completion--->Parameter Info中不选hints的，剩下两项都选
 16、导包快捷键：alt+回车
 17、方法参数提示：ctrl+P
+18、pom文件保存自动导包：File -> Other Settings -> Default Settings ->Build、Execution、Deployment -> Build Tools -> Maven -> Importing 
+    ->勾选Import Maven projects automatically
