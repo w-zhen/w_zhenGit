@@ -19,3 +19,7 @@
 17、方法参数提示：ctrl+P
 18、pom文件保存自动导包：File -> Other Settings -> Default Settings ->Build、Execution、Deployment -> Build Tools -> Maven -> Importing 
     ->勾选Import Maven projects automatically
+19、Idea空文件夹不显示树状结构，解决如下：
+    去掉 Flatten Packages前面的勾 就能分级显示    
+    去掉Compact Empty Middle Packages 前面的勾 空包就不会用点连接
+
